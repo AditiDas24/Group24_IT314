@@ -2,12 +2,14 @@
 
 <table style="width:100%">
   <tr>
-    <td><b><center>STUDENT ID</center></b></td>
-    <td><b><center>NAME</center></b></td>
+    <td><b><div style="text-align:center">
+STUDENT ID</DIV></b></td>
+    <td><b><div style="text-align:center">
+NAME</DIV></b></td>
   </tr>
   <tr>
     <td>202001259 </td>
-    <td>ADITI DAS</td>
+    <td>ADITI DAS (GR)</td>
   </tr>
    <tr>
     <td>202001238 </td>
