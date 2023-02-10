@@ -2,8 +2,8 @@
 
 <table style="width:100%">
   <tr>
-    <td><b>NAME</b></td>
-    <td><b>ID</b></td>
+    <td><b><center>NAME</center></b></td>
+    <td><b><center>STUDENT ID</center></b></td>
   </tr>
   <tr>
     <td>202001259 </td>
